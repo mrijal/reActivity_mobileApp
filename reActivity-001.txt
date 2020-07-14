@@ -1,0 +1,39 @@
+logic atau proses dan database myActivity Project : 
+
+database : reactivity_db (prototype 1) without progress and achivement
+
+tables :
+- listAct :
+	* idList
+	* listTitle
+	* description
+	* time
+	* date
+	* long
+	* ringtone
+	* conditions
+- listMoney :
+	*id
+	*list
+	*money
+	*title
+	*description
+	*time
+	*date
+	*type
+- listTarget : 
+	* idTarget
+	* targetTitle
+	* targetDescription
+	* date
+	* deadline
+	* type
+	* progress
+- profil : 
+	* id
+	* name
+	* email
+	* phone
+	* social media
+
+
